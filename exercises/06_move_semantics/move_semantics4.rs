@@ -3,7 +3,7 @@ fn main() {
 }
 
 #[cfg(test)]
-mod tests {
+mod tests{
     // TODO: Fix the compiler errors only by reordering the lines in the test.
     // Don't add, change or remove any line.
     #[test]
